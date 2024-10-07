@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats-hugos-projects-8faba13c.vercel.app/api/top-langs/?username=unchihugo&langs_count=8)
+![Top Langs](https://github-readme-stats-hugos-projects-8faba13c.vercel.app/api/top-langs/?username=unchihugo&layout=compact&langs_count=8)
 <!--
 **unchihugo/unchihugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
