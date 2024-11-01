@@ -6,6 +6,12 @@ Fan of creative code, optimizations, world-building and translating 🌍
 Feel free to check out my latest projects and updates here:  
 🌐[unchihugo.github.io](https://unchihugo.github.io/)  
 
-![Top Langs](https://github-readme-stats-hugos-projects-8faba13c.vercel.app/api/top-langs/?username=unchihugo&layout=compact&langs_count=8)
+<a href="https://github-readme-stats-hugos-projects-8faba13c.vercel.app/api/top-langs/?username=unchihugo&layout=compact&langs_count=8&theme=rose&card_width=320">
+  <img height=200 align="center" src="https://github-readme-stats-hugos-projects-8faba13c.vercel.app/api/top-langs/?username=unchihugo&layout=compact&langs_count=8&theme=rose&card_width=320"/>
+</a>
+<a href="https://github-readme-stats-hugos-projects-8faba13c.vercel.app/api?username=unchihugo&hide=contribs&show=reviews&show_icons=true&theme=rose">
+  <img height=200 align="center" src="https://github-readme-stats-hugos-projects-8faba13c.vercel.app/api?username=unchihugo&hide=contribs&show=reviews&show_icons=true&theme=rose"/>
+</a>  
 
+###
 Thanks for spending time on my profile! 🤗
