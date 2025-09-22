@@ -2,10 +2,10 @@
 <img width=200 src="https://github.com/user-attachments/assets/6a1f9943-9b99-41e7-b46c-c1ae93918b56"/>
 </div>
 
-## 💻 CS Student | Game Dev & Environmental Artist Freelancer 🎮
+## 💻 CS Student | Game Developer & Freelancer 🎮
 Building cool things since 2017 😊  
-Lover of Lua, C#, Web Dev, and making every project better 🔧✨  
-Fan of creative code, optimizations, world-building and translating 🌍  
+Lover of Luau, C#, Web Dev, FOSS and making every project better 🔧✨  
+Fan of creative code, optimizations, building worlds and translating 🌍  
 
 Feel free to check out my latest projects and updates here:  
 🌐[unchihugo.github.io](https://unchihugo.github.io/)  
@@ -15,7 +15,7 @@ Feel free to check out my latest projects and updates here:
 </a>
 <a href="https://github-readme-stats-hugos-projects-8faba13c.vercel.app/api?username=unchihugo&hide=contribs&show=reviews&show_icons=true&theme=rose">
   <img height=200 align="center" src="https://github-readme-stats-hugos-projects-8faba13c.vercel.app/api?username=unchihugo&hide=contribs&show=reviews&show_icons=true&theme=rose"/>
-</a>  
+</a>
 
 ###
 Thanks for spending time on my profile! 🤗  
